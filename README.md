@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Filiflaj;
+- 👀 I’m interested in coding, rockets, engineering, arduino, raspberry;
+- 🌱 I’m currently learning coding in c++ and 3d engineering;
+- 💞️ I’m looking to collaborate on rocket models, TVC rockets;
+- 📫 How to reach me discord:Filiflaj#3979; // i will be there
